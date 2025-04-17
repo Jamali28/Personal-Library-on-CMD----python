@@ -1,0 +1,16 @@
+[
+    {
+        "title": "How to became millionare",
+        "author": "MJ",
+        "year": "2021",
+        "genre": "mystry",
+        "read": true
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "fiction",
+        "read": true
+    }
+]
